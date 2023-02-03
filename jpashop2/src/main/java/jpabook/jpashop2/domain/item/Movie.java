@@ -7,7 +7,7 @@ import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 
 @Entity
-@DiscriminatorValue("B")
+@DiscriminatorValue("M")
 @Getter
 @Setter
 
