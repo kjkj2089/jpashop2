@@ -17,12 +17,12 @@ logging:
   level:
     org.hibernate.SQL : debug
     org.hibernate.stat: debug
-    org.hibernate.type: trace
+#    org.hibernate.type: trace
   devtools:
     livereload:
       enabled: true
     restart:
-      enabled: true
+      enabled: false
     thymeleaf:
       cache: false
 
